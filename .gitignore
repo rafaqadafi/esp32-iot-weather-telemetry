@@ -1,0 +1,30 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor / IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Binaries & Compiled Files
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.a
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Sensitive Files & AI Context
+CLAUDE.md
+PROJECT_MEMORY.md
+src/config/credentials.h
+include/credentials.h
